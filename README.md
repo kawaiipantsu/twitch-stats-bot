@@ -1,2 +1,4 @@
-# twitch-stats-bot
-Twitch statistical data collection bot
+# ᵔᴥᵔ Twitch(TV) Stats Bot
+
+> I love stats!
+
