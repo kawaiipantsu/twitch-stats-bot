@@ -1,4 +1,16 @@
 #!/usr/bin/env php
 <?PHP
+umask(0);
+
+require("libs/daemon.inc.php");
+
+use TSB\Libs\Daemon\TwitchStatsBot;
+
+$tsb = new TwitchStatsBot();
+$tsb->initialize();
+$tsb->doSpawn();
+$tsb->doWait();
+
+echo "TwtichStatsBot: Ended\n";
 
 ?>

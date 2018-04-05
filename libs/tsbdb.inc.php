@@ -3,13 +3,13 @@ namespace TSB\Modules;
 
 use TSB\Libs\Modules\module;
 
-class template extends module {
- var $author      = "Template Author";
- var $description = "This is just a Template";
- var $email       = "template@template.com";
+class tsbdb extends module {
+ var $author      = "David BL";
+ var $description = "TSB-DB worker handles all DB realted";
+ var $email       = "@davidbl";
 
- var $id     = "template";
- var $name   = "Template Worker";
+ var $id = "tsbdb";
+ var $name = "DB Worker";
 
  protected $data;
 
@@ -20,7 +20,6 @@ class template extends module {
 
  function run() {
   printf("[%7s][module] %s :: run()\n","",get_class($this));
-  // We do no work, justa template!
  }
 
 }
