@@ -37,8 +37,11 @@ These are my current thoughts and ideas! As this is very much a project in it's 
    * All data-modules will run in their own thread for high performance
  * Look into lib event for thread communication
  * Obay posix PID solution for process monitoring
+ * Optimized for low i/o usage, take advantage of op-cache ?
  * Build a flexible database structure and create tables
  * Flexible internal logging
+   * Log to local log files (option to turn off to save i/o)
+   * Log to syslog so you can fit in large scale installations and infrastructures
  * Thread monitoring to restart etc modules or main threads
  * Libs for handling irc, sql and so on
  * Figure out how you want to structure the code
@@ -96,10 +99,7 @@ Also I encourage people to fetch/clone my code if they just want to keep the sou
 I thought about this and I don't think it's unreasonable to ask for, my idea with this bot was to create a "semi" public approach to Twitch TV statistical data but also I know it will require vast amounts of storage space so I'm hosting this on AWS/Amazon Web Services or at least when the project is done that's my idea to take advantage of their storage solutions. But that is not cheap but also it's not that expensive so I think that a few donations here and there should keep the project a float.
 
 Since it's Twitch, let's keep it in the streaming spirit :)
-
-Tip my Twitch User [ReadyUpDave](http://streamlabs.com/readyupdave) 
-
-Or perhaps give me "bits" directly on my channel via [Twitch TV](https://www.twitch.tv/readyupdave).
+Tip my Twitch User [ReadyUpDave](http://streamlabs.com/readyupdave) or perhaps give me "bits" directly on my channel via [Twitch TV](https://www.twitch.tv/readyupdave).
 
 You can also donate Bitcoins or Ethereum to me for maintaining the project.
 
