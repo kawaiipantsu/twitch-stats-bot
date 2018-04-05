@@ -97,12 +97,14 @@ I thought about this and I don't think it's unreasonable to ask for, my idea wit
 
 Since it's Twitch, let's keep it in the streaming spirit :)
 
-Tip my Twitch User [ReadyUpDave](http://streamlabs.com/readyupdave)
-or perhaps give me "bits" directly on my channel via [Twitch TV](https://www.twitch.tv/readyupdave).
+Tip my Twitch User [ReadyUpDave](http://streamlabs.com/readyupdave) 
+
+Or perhaps give me "bits" directly on my channel via [Twitch TV](https://www.twitch.tv/readyupdave).
 
 You can also donate Bitcoins or Ethereum to me for maintaining the project.
 
-> Bitcoin address - 31jzgaJZuzGhDZQYrDTHQzmRFYnvHhzr57 
+> Bitcoin address - 31jzgaJZuzGhDZQYrDTHQzmRFYnvHhzr57
+
 > Ethereum address - 0x39BA5839830E9207FF3aC1c21d08d636548009D4
 
 ## References
