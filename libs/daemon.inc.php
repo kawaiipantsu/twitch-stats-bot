@@ -129,6 +129,9 @@ class TwitchStatsBot {
  function exitDaemon() {
   shmop_delete($this->shm_id);
   shmop_close($this->shm_id);
+  foreach ($this->children as $childpid) {
+   posix_kill($childpid,SIGKILL);
+  }
  }
 
 }

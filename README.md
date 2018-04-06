@@ -46,6 +46,7 @@ These are my current thoughts and ideas! As this is very much a project in it's 
  * Libs for handling irc, sql and so on
  * Figure out how you want to structure the code
  * Do we OOP or just trash it out, reasons for both?
+ * Use FIFO as queue system with each worker also some sort of buffer queue for incomming data
 
 ## Features
 

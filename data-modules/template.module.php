@@ -18,9 +18,11 @@ class template extends module {
   printf("[%7s][module] Loaded: %s\n","",get_class($this));
  }
 
- function run() {
-  printf("[%7s][module] %s :: run()\n","",get_class($this));
-  // We do no work, justa template!
+
+function run($array) {
+  $timestamp = $array["timestamp"];
+  $data      = trim($array["data"]);
+  printf("[%7s][module] %s -> run() got data! %s(%s)\n","",get_class($this),$timestamp,$data);
  }
 
 }
