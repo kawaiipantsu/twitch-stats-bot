@@ -53,6 +53,7 @@ These are my current thoughts and ideas! As this is very much a project in it's 
 * *sigh* - Nothing yet :)
 
 Check the Wiki for Development blog intries and more information on what i'm currently working on!
+
 [Project Wiki / Developer Blog](https://github.com/kawaiipantsu/twitch-stats-bot/wiki)
 
 ## My TODO list
@@ -62,6 +63,7 @@ The TODO list is a combination of my thoughts and ideas that have been approved 
  * *sigh* - Nothing yet :)
  
  Check the Wiki for Development blog intries and more information on what i'm currently working on!
+ 
 [Project Wiki / Developer Blog](https://github.com/kawaiipantsu/twitch-stats-bot/wiki)
 
 ## Why PHP?
